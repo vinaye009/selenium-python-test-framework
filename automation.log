@@ -1,0 +1,16 @@
+16/05/2025 05:29:47 PM - INFO - LaunchPage - --> Clicked on going to field successfully.
+16/05/2025 05:29:47 PM - INFO - LaunchPage - --> Typed text into going to field successfully.
+16/05/2025 05:30:13 PM - WARNING - SearchFlightResults - --> Selected flights with 2 Stops.
+16/05/2025 05:30:13 PM - INFO - TestSearchAndVerifyFilter - --> no of 2 Stop flights are: 6
+16/05/2025 05:30:20 PM - INFO - LaunchPage - --> Clicked on going to field successfully.
+16/05/2025 05:30:20 PM - INFO - LaunchPage - --> Typed text into going to field successfully.
+16/05/2025 05:30:49 PM - WARNING - SearchFlightResults - --> Selected flights with Non Stop.
+16/05/2025 05:30:49 PM - INFO - TestSearchAndVerifyFilter - --> no of Non Stop flights are: 4
+16/05/2025 05:32:21 PM - INFO - LaunchPage - --> Clicked on going to field successfully.
+16/05/2025 05:32:21 PM - INFO - LaunchPage - --> Typed text into going to field successfully.
+16/05/2025 05:32:48 PM - WARNING - SearchFlightResults - --> Selected flights with 2 Stops.
+16/05/2025 05:32:48 PM - INFO - TestSearchAndVerifyFilter - --> no of 2 Stop flights are: 6
+16/05/2025 05:32:56 PM - INFO - LaunchPage - --> Clicked on going to field successfully.
+16/05/2025 05:32:56 PM - INFO - LaunchPage - --> Typed text into going to field successfully.
+16/05/2025 05:33:28 PM - WARNING - SearchFlightResults - --> Selected flights with Non Stop.
+16/05/2025 05:33:28 PM - INFO - TestSearchAndVerifyFilter - --> no of Non Stop flights are: 4

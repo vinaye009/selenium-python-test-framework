@@ -1,0 +1,3 @@
+depart_location,from_expected_city,going_to_location,to_expected_city,departure_date_xpath,stops
+Singa,"Singapore, (SIN)",To,"Tokyo, (NRT)","(//div[@aria-label='Choose Friday, May 30th, 2025'])[1]","2 Stop"
+New,"New Delhi, (DEL)",New,"New York, (JFK)","(//div[@aria-label='Choose Saturday, May 31st, 2025'])[1]","Non Stop"
