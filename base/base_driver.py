@@ -39,9 +39,3 @@ class BaseDriver:
         return wait.until(EC.invisibility_of_element_located((locator_type, locator)))
 
         return wait.until(EC.invisibility_of_element_located((locator_type, locator)))
-
-    def test_method(self):
-        print("test merge")
-
-    def test_method_sdet1(self):
-        print("sdet1 test merge")
