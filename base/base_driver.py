@@ -37,4 +37,5 @@ class BaseDriver:
         wait = WebDriverWait(self.driver, 10)
         return wait.until(EC.invisibility_of_element_located((locator_type, locator)))
 
-    # Please ignore this comment from s-det1
+    def test_method(self):
+        print("test merge")
