@@ -39,3 +39,6 @@ class BaseDriver:
 
     def test_method(self):
         print("test merge")
+
+    def test_method_sdet1(self):
+        print("sdet1 test merge")
